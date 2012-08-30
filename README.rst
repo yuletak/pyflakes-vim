@@ -98,3 +98,6 @@ Changelog
 Please see http://www.vim.org/scripts/script.php?script_id=2441 for a history of
 all changes.
 
+Test
+---------
+Just a test for github.
